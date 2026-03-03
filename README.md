@@ -19,8 +19,8 @@ I manage the cloud infrastructure and deployment lifecycle for the **el7erafe** 
 * **Cloud Platforms:** Microsoft Azure, AWS
 * **Infrastructure as Code:** Terraform
 * **CI/CD & Automation:** GitHub Actions, Docker
-* [cite_start]**Compute & Hosting:** Azure App Service, Azure Container Apps, Azure Blob Storage [cite: 6, 10, 40]
-* [cite_start]**Database & State:** Azure SQL Database, Azure Storage (Remote tfstate with versioning) [cite: 13, 40]
+* **Compute & Hosting:** Azure App Service, Azure Container Apps, Azure Blob Storage 
+* **Database & State:** Azure SQL Database, Azure Storage (Remote tfstate with versioning) 
 * **OS & Scripting:** Linux (RedHat), Bash
 * **Software Engineering:** .NET Core, Angular, Git
 
