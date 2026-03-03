@@ -5,11 +5,11 @@
 I am a DevOps Engineer focused on designing scalable cloud-native architectures, automating CI/CD pipelines, and writing robust Infrastructure as Code (IaC). My technical journey began with Linux (RedHat), Bash scripting, and AWS, and has evolved into architecting enterprise-grade, cost-optimized environments on Microsoft Azure.
 
 ## 🚀 Featured Project: 'el7erafe' Platform Architecture
-[cite_start]I manage the cloud infrastructure and deployment lifecycle for the **el7erafe** mobile application, utilizing a cloud-native Azure architecture[cite: 3].
+I manage the cloud infrastructure and deployment lifecycle for the **el7erafe** mobile application, utilizing a cloud-native Azure architecture.
 
-* [cite_start]**Ephemeral Infrastructure (Terraform):** Designed a cost-optimization lifecycle using Terraform to automatically destroy expensive compute resources (App Service, SQL DB) at the end of the day and re-provision them each morning[cite: 36, 37, 38].
-* [cite_start]**Zero-Trust Security:** Eliminated hardcoded connection strings by implementing System-Assigned Managed Identities and strict Role-Based Access Control (RBAC) for database and storage access[cite: 26, 27, 28].
-* [cite_start]**Automated CI/CD:** Built distinct GitHub Actions pipelines to independently deploy the .NET Core 8 backend APIs to Azure App Service and the Angular SPA dashboard to Azure Blob Storage[cite: 16, 20, 24, 40].
+* **Ephemeral Infrastructure (Terraform):** Designed a cost-optimization lifecycle using Terraform to automatically destroy expensive compute resources (App Service, SQL DB) at the end of the day and re-provision them each morning.
+* **Zero-Trust Security:** Eliminated hardcoded connection strings by implementing System-Assigned Managed Identities and strict Role-Based Access Control (RBAC) for database and storage access.
+* **Automated CI/CD:** Built distinct GitHub Actions pipelines to independently deploy the .NET Core 8 backend APIs to Azure App Service and the Angular SPA dashboard to Azure Blob Storage.
 
 ## 🔬 Current Focus: Containerized Microservices
 * Developing a standalone **Content Moderation Microservice** hosted on Azure Container Apps.
